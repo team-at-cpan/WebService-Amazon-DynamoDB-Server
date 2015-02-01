@@ -4,6 +4,8 @@ package WebService::Amazon::DynamoDB::Server;
 use strict;
 use warnings;
 
+our $VERSION = '0.001';
+
 =head1 NAME
 
 WebService::Amazon::DynamoDB - perl server implementation for the AWS DynamoDB API
