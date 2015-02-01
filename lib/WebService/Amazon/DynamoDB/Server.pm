@@ -1,11 +1,12 @@
 package WebService::Amazon::DynamoDB::Server;
+# ABSTRACT: Perl implementation of the DynamoDB server API, for testing
 
 use strict;
 use warnings;
 
 =head1 NAME
 
-WebService::Amazon::DynamoDB - support for the AWS DynamoDB API
+WebService::Amazon::DynamoDB - perl server implementation for the AWS DynamoDB API
 
 =head1 DESCRIPTION
 
